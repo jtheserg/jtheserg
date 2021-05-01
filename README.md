@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### Merp 🧀
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A74HMYY)
+
 <!--
 **jtheserg/jtheserg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
